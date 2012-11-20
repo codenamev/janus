@@ -182,3 +182,9 @@
 [submodule "janus/vim/tools/vroom"]
 	path = janus/vim/tools/vroom
 	url = https://github.com/skalnik/vim-vroom.git
+[submodule "janus/vim/tools/tabular"]
+	path = janus/vim/tools/tabular
+	url = git://github.com/godlygeek/tabular.git
+[submodule "janus/vim/tools/screen"]
+	path = janus/vim/tools/screen
+	url = git://github.com/ervandew/screen.git
